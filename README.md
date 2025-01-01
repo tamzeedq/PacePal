@@ -1,5 +1,6 @@
 # **PacePal**
-A running coach that tracks your pace and helps you visualize your run using IoT, Ardiuno, Firebase,and Python.  
+A running coach that tracks your pace and helps you visualize your run using IoT, Arduino, Firebase, and Python.  
+<img src="https://github.com/user-attachments/assets/20bb8ca3-21f5-4817-823e-91e8b231f1dc" alt="PacePal" width="400">
 
 ### Background
 Over this past summer, I have taken up running as a hobby and my main form of cardio. I quickly realized the importance of maintaining pace for distance running, and started looking to buy a pace tracking watch (Apple Watch, FitBit, or other). Instead, I thought I could make something myself. Using an Arduino board with IoT support and FireBase, I created this project to track my pace while I run and used Python to plot my run data with the granularity and metrics I desired. This project was inspired by Strava.
@@ -48,7 +49,7 @@ You'll also need to fill in the `config.h` file and replace the `xxx`s  :
 Most of these fields you'll be able fillout after reading over the Firebase set up section. 
 
 
-Schema: ....
+
 
 
 ## Firebase
